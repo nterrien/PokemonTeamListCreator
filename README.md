@@ -15,6 +15,7 @@ Update December 2023:
   - dob=text (recommended use -)
   - age=Junior, Senior or Master
   - lang=chs, cht, en, es, fre, ger, ita, jpn, jpnkanji or kor
+  - spid=text support ID
 
 Update July 2023:
 - Added Pokémon for Regulation D
